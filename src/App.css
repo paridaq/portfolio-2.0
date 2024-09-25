@@ -1,0 +1,27 @@
+
+@media screen and (min-width: 80rem) {
+  .container {
+    margin: 1em 2em;
+  }
+}
+
+
+body{
+  
+  background-color:grey;
+  color:black;
+}
+.social{
+  display: flex;
+  margin-bottom: 40px;
+}
+.social img{
+  padding: 16px;
+}
+.project h5{
+  color: black;
+}
+
+
+
+
