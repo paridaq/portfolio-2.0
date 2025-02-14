@@ -3,9 +3,27 @@ import React from "react";
 function Introduction(){
     return(
         <>
-        <h1>Hi I am Biswajit parida the great</h1>
-        <h1>i work  like rothschild</h1>
-        <p>i am the next big thing in india</p>
+        <style>{`
+            .introduction {
+            position: absolute;
+            top: 0%;
+            margin-top: 5%;
+            
+            
+            ;
+            width:50%;
+            
+            .amazing{
+            font-size: 1.7rem;
+            color:white ;
+            }
+            }
+        `}</style>
+        <div className="introduction">
+            <h1 className="amazing">Biswajit Parida</h1>
+            <h2>About djg;jfgffggk f';'kf,,ckghhhhhhhhhhhhhhh    hhhh</h2>
+           
+        </div>
         </>
     )
 }

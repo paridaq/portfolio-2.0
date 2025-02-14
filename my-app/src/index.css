@@ -5,7 +5,11 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: black;
+  font-family: "Poppins", serif;
+  font-style: normal;
+  
+  ;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -24,6 +28,7 @@ a:hover {
 
 body {
   margin: 0;
+  margin-left: 15%;
   display: flex;
   place-items: center;
   min-width: 320px;
