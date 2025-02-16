@@ -1,5 +1,7 @@
 import react from "react";
 import snap from '../assets/Screenshot (90).png'
+import { projectArray } from "../object/ProjectObject";
+
 
 
 function Project(){
@@ -27,8 +29,8 @@ function Project(){
             height:48px;
             background-color:yellow;
             border:3px solid white;
-            ;
-            margin-top:-6px
+            
+            margin-top:-6px;
             
             }
             .image{
@@ -61,9 +63,9 @@ function Project(){
      </div>
      <div>
 
-     <h2>here is a the text</h2>
-     <h2>here is a the text</h2>
-     <h2>here is a the text</h2>
+     <p>this is the project ghghhh  uughujjhj  drrcdcyr vtjbjhjgh  fjyjb   trtdr  bfyyfjbbff   tffdddd   ffjbbbb   dhbhbfdd   ttvbfdfh  dhhjsdbsds</p>
+     <p>this is the project nmcjghfj hjdhj vgj cn hg jrr hgdj gjhgj  gjhgj  hggj ghgg ttth gjnbg fvgvffy tvvbfff vgfffhh fgjbv  fvghb  fjbj bfhgfg </p>
+     <p>this is the project</p>
      </div>
     
 
