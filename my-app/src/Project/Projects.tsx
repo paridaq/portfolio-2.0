@@ -14,7 +14,7 @@ function Project(){
         width:100%;
         display:flex;
         gap:20px;
-        text-align:center;
+        ;
         margin-bottom:15px;
         }
         .rectangle{
@@ -42,6 +42,8 @@ function Project(){
         .small-text{
         display:flex;
         gap:199px;}
+        .project-detail{
+        gap:-10px}
       
         
     ` }
@@ -67,11 +69,12 @@ function Project(){
 
 
                 </div>
-            <div>
-
+            <div className="project-detail">
+               <div>
             <p>{project.name}</p>
             <p>{project.description} </p>
             <p>this is the project</p>
+            </div>
             </div>
     
     </div>
