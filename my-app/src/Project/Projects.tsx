@@ -43,7 +43,7 @@ function Project(){
         display:flex;
         gap:199px;}
         .project-detail{
-        gap:-10px}
+        }
       
         
     ` }

@@ -1,7 +1,5 @@
 import react from 'react'
-import linkedinIcon from '../assets/icons8-linkedin-80.png'
-import githubicon from '../assets/icons8-github-48.png'
-import twittericon from '../assets/icons8-x-80.png'
+
 
 function SocialMedia(){
     return(
@@ -30,6 +28,7 @@ function SocialMedia(){
                <p> Linkedin - <a href="https://www.linkedin.com/in/biswajit-parida-56501a186/"> Link</a></p>
                <p>Github -  <a href="https://github.com/paridaq">Link</a></p>
                <p> Gmail - <a href="https://mail.google.com/mail/u/0/#inbox" target='_blank'> Link</a></p>
+
 
             </div>
 
