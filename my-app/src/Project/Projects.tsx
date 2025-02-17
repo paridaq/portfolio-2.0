@@ -1,5 +1,5 @@
-import react from "react";
-import snap from '../assets/Screenshot (90).png'
+
+
 import { projectArray } from "../object/ProjectObject";
 
 
