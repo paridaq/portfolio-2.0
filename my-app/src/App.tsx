@@ -6,6 +6,7 @@ import Introduction from './about/Introduction'
 import UsedTools from './about/UsedTools'
 import Project from './Project/Projects'
 import SocialMedia from './socials/SocialMedia'
+import Footer from './Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,6 +18,7 @@ function App() {
       <UsedTools/>
       <Project/>
       <SocialMedia/>
+      <Footer/>
     </>
   )
 }
