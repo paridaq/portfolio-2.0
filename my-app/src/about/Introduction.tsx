@@ -37,7 +37,7 @@ function Introduction(){
             <h1 className="amazing">Biswajit Parida</h1>
             <h2 className="h2">About me</h2>
             <hr/>
-            <p className="p">I am a software developer with a deep enthusiasm for learning and buildingn
+            <p className="p">I am a software developer with a deep enthusiasm for learning and building
             </p>
             <h2 className="h2-2">What I do? </h2>
             <hr/>
