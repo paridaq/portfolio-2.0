@@ -44,6 +44,11 @@ function Project(){
         gap:199px;}
         .project-detail{
         }
+        @media(max-width:768px){
+        .container{
+        flex-direction:column;
+        }
+        }
       
         
     ` }
