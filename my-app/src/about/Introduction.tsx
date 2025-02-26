@@ -30,24 +30,31 @@ function Introduction(){
             opacity:5;
             }
             .p2-2{
-            opacity:0.5;}
+            opacity:0.5;
+            }
         `}</style>
         <div className="introduction">
             <h1 className="amazing">Biswajit Parida</h1>
             <h2 className="h2">About me</h2>
             <hr/>
-            <p className="p">Hello ! I'm a devloper from Bengaluru,India.I enjoy programming and exploring
-                technology.I've participated in  in 50 plus hackathons <span className="high"> The great</span>
+            <p className="p">I am a software developer with a deep enthusiasm for learning and buildingn
             </p>
             <h2 className="h2-2">What I do? </h2>
             <hr/>
-            <p className="p2-2"> I delivered 10+ freelance projects,Interned at two startups
-                and going to build my own statup .I'm super active on X 
-                Where I share funnies and thoughts and tech related news
+            <p className="p2-2"> With a deep enthusiasm for software engineering,
+                 learning has been entirely self-driven. Every concept and skill has been acquired independently, 
+                 leading to the development of production-worthy projects. Coding is done without AI-assisted editors, though AI is used as a 
+                learning tool—implementation remains completely hands-on
             </p>
 
-            <p className="p2-2">I'm a aws clod club captain a maintainer a contributer of open source 
-                projects. when not coding I read books
+            <p className="p2-2">
+            Problem-solving is a daily pursuit, with continuous practice on
+             platforms like LeetCode and Codeforces. A strong grasp of essential
+              data 
+            structures ensures efficiency in tackling challenges.
+            </p>
+            <p className="p2-2">
+            The journey of learning never stops, with new technologies explored and skills refined every day.
             </p>
             <p>
                 I'm open to work ,freelance, or collebarate. <a href="www.google.com"> contact me</a>

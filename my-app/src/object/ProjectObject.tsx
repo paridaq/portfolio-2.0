@@ -4,7 +4,7 @@ export const projectArray=[
     {
         id:1,
         name:'E-commerce site',
-        descriprion:'a full stack ecommerce site build with react ,nodejs,express and mongodb',
+        description:'a full stack ecommerce site build with react ,nodejs,express and mongodb',
         image:snap,
         liveLink:"https://www.google.com",
 
