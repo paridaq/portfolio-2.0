@@ -51,6 +51,25 @@ function UsedTools(){
         
         
         </div>
+        <div className="tools-tools">
+            <div className="used-tools">
+            <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/>
+                <h3>-Express</h3>
+            </div>
+            <div className="used-tools">
+            <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+                 <h3>-Python</h3>
+            </div>
+            <div className="used-tools">
+            <img width="48" height="48" src="https://img.icons8.com/parakeet/48/sql.png" alt="sql"/>
+            <h3>-SQL</h3>
+            </div>
+            <div className="used-tools">
+            <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
+               <h3>-Typescript</h3>
+            </div>
+
+        </div>
         
         
         </div>
