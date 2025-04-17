@@ -17,7 +17,7 @@ function SocialMedia(){
             display:flex;
             gap:25px;
             }
-            .email{
+            .email{5
             opacity:0.7
             }
             .border-text{
